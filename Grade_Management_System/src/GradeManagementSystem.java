@@ -54,7 +54,7 @@ public class GradeManagementSystem {
         }
 
         students.add(new StudentGrade(name, marks));
-        System.out.println("✅ Student marks added successfully!");
+        System.out.println(" Student marks added successfully!");
     }
 
     //View All Students
